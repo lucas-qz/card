@@ -1,8 +1,8 @@
 on: 
   push:
     branches:
-      - main
-name: 🚀 Deploy website on push
+      - nova
+name: 🚀 Deploy website nova on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
